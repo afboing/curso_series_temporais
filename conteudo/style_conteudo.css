@@ -1,0 +1,89 @@
+		.div_conteudo_fundo_cinza{
+			background-color: #EAEAEA;
+			width: 908px;
+			vertical-align: top;
+			height: auto;
+			text-align:left; 
+			padding-left: 62px;  
+			padding-right: 62px; 
+			padding-top: 30px; 
+			padding-bottom: 15px;
+		}
+
+		.marcador_verde{
+       		background: #3FB294;
+			width: 80px;
+			height: 10px;
+			vertical-align: top;
+			}
+
+		p, h2{
+			margin-top: 40px !important;
+			margin-bottom: 40px!important;
+			padding-left: 100px;
+			padding-right: 100px;
+		}
+
+		img{
+			padding-left: 100px;
+			padding-right: 100px;
+		}
+
+		table{
+			padding-left: 100px !important;
+			padding-right: 100px !important;
+		}
+
+		p.caption{
+			margin-top: 0px !important;
+			margin-bottom: 0px!important;
+			padding-left: 100px;
+			padding-right: 100px;
+		}
+
+
+		.icone_alerta{
+			width: 120px;
+			height: auto;
+			margin-top:0px;
+			text-align:justify; 
+			padding-left: 10px; 
+			padding-top: 10px; 
+			vertical-align: middle;
+			}
+
+		.destaque_cinza{
+			background: #EAEAEA;
+			width: 670px;
+			height: auto;
+			text-align:justify; 
+			display: inline-block;
+			padding-left: 100px;  
+			padding-right: 100px; 
+			padding-top: 40px; 
+			padding-bottom: 40px; 
+			font-family: Open Sans, arial; 
+			font-size: 18px;
+			vertical-align: middle;
+			-webkit-border-radius: 15px;
+    		border-radius: 15px;
+			}
+
+					.fundo_verde_unidade{
+			background-color: #3fb294;
+			width: 908px;
+			vertical-align: top;
+			height: auto;
+			text-align:left;
+			padding-left: 62px;  
+			padding-right: 62px; 
+			padding-top: 30px; 
+			padding-bottom: 15px;
+			}
+
+		.marcador_branco{
+       		background: white;
+			width: 80px;
+			height: 10px;
+			vertical-align: top;
+			}
